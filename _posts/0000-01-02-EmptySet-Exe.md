@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Alright, I'm starting to make some progress.
 <<<<<<< HEAD
 Use the left arrow to go back!
 =======
